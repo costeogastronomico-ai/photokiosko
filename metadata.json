@@ -1,0 +1,10 @@
+{
+  "name": "Remix Photobooth Digital",
+  "description": "Aplicación web tipo Photobooth Digital para eventos, congresos y activaciones de marca con captura de fotos, branding automático y descarga instantánea por QR.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
